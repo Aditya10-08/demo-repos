@@ -1,3 +1,3 @@
 # demo-repos
-This is my first github repos
+This is my first github repository.
 Author-Aditya
